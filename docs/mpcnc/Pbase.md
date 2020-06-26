@@ -66,12 +66,12 @@ ___
 ## Leg Locks
 ![!Parts and hardware](https://www.v1engineering.com/wp-content/uploads/2020/06/lock-parts-scaled.jpg){: width="400"}
 
-* You will need the Printed Corner Leg Locks and M5 Luck nuts.
+* You will need the Printed Corner Leg Locks and M5 locknuts.
 * It is best to pre-thread all the locknuts before assembly. This will loosen them and prevent mangling of the printed parts.
 
 ![!Embeded nut](https://www.v1engineering.com/wp-content/uploads/2020/06/lock-ready-scaled.jpg){: width="400"}
 
-* Push the nut into the Leg lock and fully seat it. If it does not stay on it's own you can use a drop of Glue.
+* Push the nut into the Leg Lock and fully seat it. If it does not stay on it's own you can use a drop of glue.
 * If the nut does not stay on it's own, you can attach the Corner Bottom very loosely with its bolt.
 
 ![!Orientation](https://www.v1engineering.com/wp-content/uploads/2020/06/base-lock-scaled.jpg){: width="400"}
@@ -92,12 +92,12 @@ ___
 
 ![!Belt Orientation](https://www.v1engineering.com/wp-content/uploads/2020/06/base-bottom-arrows-scaled.jpg){: width="400"}
 
-* The corner bottoms go on the leg locks as shown, Pay attention to how the belt slider slots are oriented. They point towards each other on the outside of the build area.
+* The Corner Bottoms go on the Leg Locks as shown. Pay attention to how the belt slider slots are oriented. They point towards each other on the outside of the build area.
 * This picture is taken with the 0,0 (home) corner in the bottom nearest left. The corners should be as shown.
 
 ![!Assemble](https://www.v1engineering.com/wp-content/uploads/2020/06/base-bottom-scaled.jpg){: width="400"}
 
-* Get the screws started to hold the leg locks and corner bottoms together.
+* Get the screws started to hold the Leg Locks and Corner Bottoms together.
 * Leave them loose, just tight enough to make the screw head clear the rail.
 
 ![!Add Y rails](https://www.v1engineering.com/wp-content/uploads/2020/06/rails-1-scaled.jpg){: width="400"}
@@ -109,14 +109,14 @@ ___
 ## Lock The Legs
 ![!Hardware needded](https://www.v1engineering.com/wp-content/uploads/2020/06/leglock1-scaled.jpg){: width="400"}
 
-* You will need four sets of the M5 screws and Locknuts.
-* It is best to pre-thread all the locknuts before assembly. This will loosen them and prevent mangaling of the printed parts.
+* You will need four sets of the M5 screws and locknuts.
+* It is best to pre-thread all the locknuts before assembly. This will loosen them and prevent mangling of the printed parts.
 
 ![!Snugged up Lock](https://www.v1engineering.com/wp-content/uploads/2020/06/leglock2-scaled.jpg){: width="400"}
 
-* Snug up all four leg locks.
-* Snug, is just that, 1/4 turn past the screw and nut seating into the part. Just tight enough to make the corner have some resistance if you try to take it off the leg. 
-* All clamping parts have a gap. ***Do not clamp it hard enough to close the gap***!
+* Snug up all four Leg Locks.
+* Snug is just that, 1/4 turn past the screw and nut seating into the part. Just tight enough to make the corner have some resistance if you try to take it off the leg. 
+* All clamping parts have a gap. ***Do not clamp it hard enough to close the gap!***
 
 ![!Assemble](https://www.v1engineering.com/wp-content/uploads/2020/06/base-bottom-scaled.jpg){: width="400"}
 
@@ -130,7 +130,7 @@ ___
 ![!Rail Height](https://www.v1engineering.com/wp-content/uploads/2020/06/rail-height-scaled.jpg){: width="400"}
 
 * Put the Y rails back in place.
-* Use whatever means you have at your disposal to assure all four corners are at the same level.
+* Use whatever means you have at your disposal to ensure all four corners are at the same level.
 * If you were careful with your leg lengths this should be level already. 
 * Loosening the screws and giving the corners a light tap can seat them a tiny bit farther if needed.
 
