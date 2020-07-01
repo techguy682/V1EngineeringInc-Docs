@@ -17,7 +17,7 @@ ___
  
 ## GeoDave at it again! – parametric table
 
-[GeoDAve's table on Thingiverse](http://www.thingiverse.com/thing:1468511)
+[GeoDave's table on Thingiverse](http://www.thingiverse.com/thing:1468511)
 
 ## MPTable??
 
